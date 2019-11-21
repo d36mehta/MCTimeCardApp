@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MotorCourt TimeCard</string>
+    <string name="tabText1">Patricia</string>
+    <string name="tabText2">Nicole</string>
+    <string name="tabText3">Ashley</string>
+    <string name="tabText4">Krista</string>
+    <string name="tabText5">Rebecca</string>
+    <string name="tabText6">Amber</string>
+</resources>
